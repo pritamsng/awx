@@ -44,7 +44,7 @@ cffi==1.11.5              # via bcrypt, cryptography, pynacl
 chardet==3.0.4            # via requests
 colorama==0.3.9           # via azure-cli-core, knack
 configparser==3.5.0       # via entrypoints
-cryptography==2.1.4       # via adal, azure-keyvault, azure-storage, paramiko, pyopenssl, requests-kerberos, requests-ntlm, secretstorage
+cryptography==41.0.3       # via adal, azure-keyvault, azure-storage, paramiko, pyopenssl, requests-kerberos, requests-ntlm, secretstorage
 decorator==4.2.1          # via openstacksdk
 deprecation==2.0          # via openstacksdk
 docutils==0.14            # via botocore
