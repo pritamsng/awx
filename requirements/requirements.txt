@@ -16,7 +16,7 @@ autobahn==19.2.1          # via daphne
 automat==0.7.0            # via twisted
 billiard==3.5.0.5         # via celery
 boto==2.47.0
-celery==4.2.1
+celery==4.4.0rc5
 cffi==1.12.1              # via cryptography
 channels==1.1.8
 constantly==15.1.0        # via twisted
