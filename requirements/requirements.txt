@@ -40,7 +40,7 @@ djangorestframework-yaml==1.0.3
 djangorestframework==3.7.7
 future==0.16.0            # via django-radius
 hyperlink==18.0.0         # via twisted
-idna==2.8                 # via hyperlink
+idna==3.7                 # via hyperlink
 incremental==17.5.0       # via twisted
 inflect==2.1.0            # via jaraco.itertools
 irc==16.2
@@ -114,3 +114,4 @@ zope.interface==4.6.0     # via twisted
 # The following packages are considered to be unsafe in a requirements file:
 # pip
 # setuptools
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
