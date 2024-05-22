@@ -91,7 +91,7 @@ pytz==2018.9              # via celery, django, irc, tempora, twilio
 pyyaml==3.13              # via djangorestframework-yaml
 requests-futures==0.9.7
 requests-oauthlib==1.2.0  # via social-auth-core
-requests[security]==2.15.1
+requests==2.32.0
 service-identity==17.0.0
 simplejson==3.16.0        # via uwsgitop
 six==1.12.0               # via asgi-amqp, asgiref, autobahn, automat, cryptography, django-extensions, irc, isodate, jaraco.classes, jaraco.collections, jaraco.itertools, jaraco.logging, jaraco.stream, pygerduty, pyhamcrest, pyopenssl, pyrad, python-dateutil, python-memcached, slackclient, social-auth-app-django, social-auth-core, tacacs-plus, tempora, twilio, txaio, websocket-client
