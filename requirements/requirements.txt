@@ -37,7 +37,7 @@ django-split-settings==0.3.0
 django-taggit==0.22.2
 django==1.11.16
 djangorestframework-yaml==1.0.3
-djangorestframework==3.7.7
+djangorestframework==3.15.2
 future==0.16.0            # via django-radius
 hyperlink==18.0.0         # via twisted
 idna==2.8                 # via hyperlink
