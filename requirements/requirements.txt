@@ -53,7 +53,7 @@ jaraco.logging==2.0       # via irc
 jaraco.stream==2.0        # via irc
 jaraco.text==2.0          # via irc, jaraco.collections
 jinja2==2.10
-jsonpickle==1.1           # via asgi-amqp
+jsonpickle==3.3.0           # via asgi-amqp
 jsonschema==2.6.0
 kombu==4.2.1              # via asgi-amqp, celery
 lxml==4.3.1               # via xmlsec
