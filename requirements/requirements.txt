@@ -81,7 +81,7 @@ pyrad==2.1                # via django-radius
 pysocks==1.6.8            # via twilio
 python-daemon==2.2.0      # via ansible-runner
 python-dateutil==2.7.2
-python-ldap==3.1.0        # via django-auth-ldap
+python-ldap==3.4.5        # via django-auth-ldap
 python-logstash==0.4.6
 python-memcached==1.59
 python-radius==1.0
@@ -96,7 +96,7 @@ service-identity==17.0.0
 simplejson==3.16.0        # via uwsgitop
 six==1.12.0               # via asgi-amqp, asgiref, autobahn, automat, cryptography, django-extensions, irc, isodate, jaraco.classes, jaraco.collections, jaraco.itertools, jaraco.logging, jaraco.stream, pygerduty, pyhamcrest, pyopenssl, pyrad, python-dateutil, python-memcached, slackclient, social-auth-app-django, social-auth-core, tacacs-plus, tempora, twilio, txaio, websocket-client
 slackclient==1.1.2
-social-auth-app-django==2.1.0
+social-auth-app-django==5.6.0
 social-auth-core==3.0.0
 tacacs_plus==1.0
 tempora==1.14             # via irc, jaraco.logging
