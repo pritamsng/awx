@@ -70,7 +70,7 @@ psutil==5.4.3
 psycopg2==2.7.3.2
 ptyprocess==0.6.0         # via pexpect
 pyasn1-modules==0.2.4     # via python-ldap, service-identity
-pyasn1==0.4.5             # via pyasn1-modules, python-ldap, service-identity
+pyasn1==0.6.2             # via pyasn1-modules, python-ldap, service-identity
 pycparser==2.19           # via cffi
 pygerduty==0.37.0
 pyhamcrest==1.9.0         # via twisted
